@@ -1,0 +1,7 @@
+Revision history for Perl extension IPC::Signal::Translate.
+
+0.01  Wed May 14 22:36:18 EDT 1997
+
+    - Initial version.
+
+$Id: Changes,v 1.1 1997-05-14 22:48:48-04 roderick Exp $
